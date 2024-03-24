@@ -1,2 +1,2 @@
-# hello_world
-Hello world in Git
+# Hello World
+In Git
